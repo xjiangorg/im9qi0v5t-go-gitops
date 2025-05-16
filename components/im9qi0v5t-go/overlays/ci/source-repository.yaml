@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: im9qi0v5t-go-repository
+spec:
+  url: https://github.com/xjiangorg/im9qi0v5t-go
